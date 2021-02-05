@@ -1,5 +1,5 @@
 {
-  "name": "ralouphie/mimey",
+  "name": "vigstudio/mimey",
   "description": "PHP package for converting file extensions to MIME types and vice versa.",
   "license": "MIT",
   "authors": [
